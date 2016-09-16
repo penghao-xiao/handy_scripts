@@ -1,1 +1,1 @@
-# handy_scripts
+A collection of scripts, mostly python, for initializing, analysis and plotting.
